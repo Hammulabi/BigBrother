@@ -192,23 +192,5 @@ Chaque Issue/task comporte : **contexte, livrable, responsable, estimation, date
 - L'IA ClickUp peut **rédiger une proposition** d'analyse des retards ou d'ADR, jamais déclarer seule un test réussi ni modifier une décision ou un jalon sensible sans validation.
 - Tout écart supérieur à **3 jours ouvrés** sur le chemin critique entraîne une revue de périmètre/charge et une action de mitigation documentée. Le jalon académique officiel n'est pas déplacé sans accord explicite.
 
-## 10. Documents à conserver dans le dépôt
 
-```text
-CONTRIBUTING.md
-README.md
-docs/
-  contracts.md
-  adr/
-    ADR-0001-outil.md
-  weekly/
-    2026-W48.md
-  test-plan.md
-  decisions.md
-  security-lab.md
-  runbooks/
-    replay-pcap.md
-    rollback.md
-```
-
-**Références :** [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) ; [dépôt BigBrother](https://github.com/Hammulabi/BigBrother) ; PDF *Plan d'action PFE* remis par l'équipe ; cahier des charges BigBrother. Les règles Git, gates, organigramme et KPI sont des **propositions de gouvernance** à valider en équipe.
+**Références :** [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) ; [dépôt BigBrother](https://github.com/Hammulabi/BigBrother) ; Cahier des charges BigBrother. Les règles Git, gates, organigramme et KPI sont des **propositions de gouvernance** à valider en équipe.
